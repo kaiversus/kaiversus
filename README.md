@@ -62,18 +62,11 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kaiversus&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaiversus&theme=tokyonight" alt="Profile Details" />
     <br>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaiversus&theme=tokyonight" alt="Repos per Language" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaiversus&theme=tokyonight" alt="Most Commit Language" />
 </div>
-
   ---
 
   ### 📫 Connect with Me
