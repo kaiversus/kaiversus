@@ -6,16 +6,16 @@
 
   ## 👋 Hi, I'm Dinh Thien Bao (Kaiversus)
 
-  ### 🚀 Security Researcher | CTF Player | Low-level Enthusiast
+  ###  Security Researcher | CTF Player 
 
   ---
 
   ### 📌 Personal Information
   <div align="left">
   
-  - 🎓 **Education:** Student at Ho Chi Minh City University of Technology and Education (HCMUTE)
-  - 🎯 **Major Interests:** Cyber Security, Reverse Engineering, Binary Exploitation (Pwn)
-  - 🔍 **Focus:** Low-level analysis, System security, and Malware analysis
+  -  **Education:** Student at Ho Chi Minh City University of Technology and Education (HCMUTE)
+  -  **Major Interests:** Cyber Security, Reverse Engineering, Binary Exploitation (Pwn)
+  -  **Focus:** Low-level analysis, System security, and Malware analysis
   
   </div>
 
@@ -25,9 +25,9 @@
   
   <div align="left">
 
-  - 🛡️ Advanced Reverse Engineering techniques
-  - 🐛 Anti-debugging & Anti-analysis methods
-  - 🦠 Malware behavior analysis & Unpacking
+  -  Advanced Reverse Engineering techniques
+  -  Anti-debugging & Anti-analysis methods
+  -  Malware behavior analysis & Unpacking
 
   </div>
 
@@ -59,7 +59,7 @@
 
   ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaiversus&theme=tokyonight" alt="Profile Details" />
@@ -70,7 +70,7 @@
 
   ---
 
-  ### 📫 Connect with Me
+  ###  Connect with Me
 
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thienbao612006@gmail.com)
   [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/thien.bao.537085/)
