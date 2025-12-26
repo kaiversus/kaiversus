@@ -61,11 +61,13 @@
 
   ### 📊 GitHub Stats
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=kaiversus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="kaiversus's Github Stats" />
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiversus&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </p>
+### 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=kaiversus&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiversus&layout=compact&theme=tokyonight)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaiversus&theme=tokyonight)
 
   ---
 
