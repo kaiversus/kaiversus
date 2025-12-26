@@ -59,15 +59,20 @@
 
   ---
 
-  ### 📊 GitHub Stats
-
 ### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=kaiversus&show_icons=true&theme=tokyonight)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=kaiversus&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiversus&layout=compact&theme=tokyonight)
+<br>
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaiversus&theme=tokyonight)
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaiversus&theme=tokyonight" alt="Profile Details" />
+    <br>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaiversus&theme=tokyonight" alt="Repos per Language" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaiversus&theme=tokyonight" alt="Most Commit Language" />
+</div>
 
   ---
 
