@@ -19,9 +19,8 @@
 
   ### 🏆 Honors & Awards
   <div align="left">
-
-  - 🥉 **Bronze Medal** - National Student Mathematics Olympiad (2025)
-  - 🎖️ **Consolation Prize** - HCMUTE Information Security Contest (2025)
+  - 🥉 **Bronze Medal** – National Algebra Olympiad in Mathematics (2025)
+  - 🎖️ **TOP 4** - HCMUTE Information Security Contest (2025)
 
   </div>
 
