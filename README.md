@@ -21,7 +21,6 @@
   <div align="left">
     
   - 🥉 **Bronze Medal** – National Algebra Olympiad in Mathematics (2025)  
-    
   - 🎖️ **TOP 4** - HCMUTE Information Security Contest (2025)
 
   </div>
